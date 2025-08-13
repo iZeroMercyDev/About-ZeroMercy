@@ -1,5 +1,5 @@
 # About-ZeroMercy
-# Hi, I’m **iZeroMercyDev** 👋
+# Hi, I’m **ZeroMercy** 👋
 
 > _“Simplifying server management through clear guidance and smart automation.”_
 
